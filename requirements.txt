@@ -1,0 +1,7 @@
+# ctxindex 无第三方依赖，仅需 Python 3.10+
+# 使用标准库：argparse / sqlite3 / ast / json / re / pathlib 等
+#
+# 安装：无需 pip install，直接运行
+#   python -m ctxindex build
+#
+# （保留此文件仅为标明运行环境；依赖列表为空）
